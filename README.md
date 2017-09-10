@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎来到两鬓已不能斑白的博客
 
 You can use the [editor on GitHub](https://github.com/lijialinneu/lijialin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+[CSDN地址](http://blog.csdn.net/u010429424)
+
 
 ### Markdown
 
